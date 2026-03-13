@@ -1,4 +1,4 @@
-# Videojatek_gyujtemeny
+# Videogames collection
 Thematic data management application
 
 # Creators:
