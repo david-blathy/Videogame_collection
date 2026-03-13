@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videogames collection</title>
+    <link rel="icon" href="KEPIDE.ico" type="image/x-icon" </head>
+
+<body>
+    <header>
+        <h1>Videogames collection</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Main page</a></li>
+            <li><a href="items.html">Categories</a></li>
+            <li><a href="favourites.html">Favourites</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <div class="card favourite-highlight">
+            <div class="card-header">
+                <h3>{{NAME}}</h3>
+                <span class="category-tag">{{CATEGORY}}</span>
+            </div>
+            <div class="card-body">
+                <p>{{DESCRIPTION}}</p>
+                <div class="stats">
+                    <span>Rating: {{RATING}}/5</span>
+                    <span>Difficulty: {{DIFFICULTY}}</span>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Made by: Balla David, Kuszko Zsombor</p>
+        </footer>
+    </main>
+
+</body>
+
+</html>
