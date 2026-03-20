@@ -4,13 +4,13 @@
 * Balla David
 * Kuszko Zsombor
 
-###### Chosen theme:
+## Chosen theme:
 * Videogames colleciton
 
-###### Description
+## Description
 
-###### The programs function
+## The programs function
 
-###### (Short website preview)
+## (Short website preview)
 
-###### (Screenshots of the project)
+## (Screenshots of the project)
