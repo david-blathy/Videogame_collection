@@ -4,7 +4,7 @@
 * Balla David
 * Kuszko Zsombor
 
-###### Chosen theme:
+## Chosen theme:
 * Videogames colleciton
 
 ## Description
