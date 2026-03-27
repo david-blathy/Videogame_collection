@@ -1,8 +1,0 @@
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\bin\Debug\VideojatekGyujtemeny.exe.config
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\bin\Debug\VideojatekGyujtemeny.exe
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\bin\Debug\VideojatekGyujtemeny.pdb
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\obj\Debug\VideojatekGyujtemeny.csproj.AssemblyReference.cache
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\obj\Debug\VideojatekGyujtemeny.csproj.CoreCompileInputs.cache
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\obj\Debug\VideojatekGyujtemeny.exe
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\obj\Debug\VideojatekGyujtemeny.pdb
-C:\Users\User\Downloads\VideojatekGyujtemeny\VideojatekGyujtemeny\obj\Debug\VideojatekGyujtemeny.exe.config
