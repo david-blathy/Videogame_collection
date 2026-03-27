@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\videojatek\videojatek\bin\Debug\net8.0\videojatek.exe
+C:\Users\User\Downloads\videojatek\videojatek\bin\Debug\net8.0\videojatek.deps.json
+C:\Users\User\Downloads\videojatek\videojatek\bin\Debug\net8.0\videojatek.runtimeconfig.json
+C:\Users\User\Downloads\videojatek\videojatek\bin\Debug\net8.0\videojatek.dll
+C:\Users\User\Downloads\videojatek\videojatek\bin\Debug\net8.0\videojatek.pdb
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\videojatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\videojatek.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\videojatek.AssemblyInfo.cs
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\videojatek.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\videojatek.dll
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\refint\videojatek.dll
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\videojatek.pdb
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\videojatek.genruntimeconfig.cache
+C:\Users\User\Downloads\videojatek\videojatek\obj\Debug\net8.0\ref\videojatek.dll
