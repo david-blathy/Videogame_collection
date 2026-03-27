@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Videogames - All Items</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Main page</a></li>
+            <li><a href="items.html">All Games</a></li>
+            <li><a href="favourites.html">Favourites</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="catalog">
+            <h2>Full Collection</h2>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Name</th>
+                            <th>Category</th>
+                            <th>Description</th>
+                            <th>Rating</th>
+                            <th>Difficulty</th>
+                            <th>Fav</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{TABLE_ROWS}}
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
